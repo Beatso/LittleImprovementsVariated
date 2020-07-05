@@ -1,0 +1,21 @@
+ {
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/sandstone_slab"
+      },
+      {
+        "model": "minecraft:block/sandstone_slab",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/sandstone_slab",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/sandstone_slab",
+        "y": 270
+      }
+    ]
+  }
+}

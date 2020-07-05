@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/red_sand"
+      },
+      {
+        "model": "minecraft:block/red_sand",
+        "x": 90,
+		"y": 90,
+		"z": 90
+      },
+      {
+        "model": "minecraft:block/red_sand",
+        "x": 180,
+		"y": 180,
+		"z": 180
+      },
+      {
+        "model": "minecraft:block/red_sand",
+        "x": 270,
+		"y": 270,
+		"z": 270
+      }
+    ]
+  }
+}
