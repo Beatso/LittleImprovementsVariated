@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/gilded_blackstone/gilded_blackstone1" },
+            { "model": "block/gilded_blackstone/gilded_blackstone2" },
+            { "model": "block/gilded_blackstone/gilded_blackstone3" }
+        ]
+    }
+}
