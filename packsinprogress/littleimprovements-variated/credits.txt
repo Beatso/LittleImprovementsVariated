@@ -3,4 +3,10 @@ Credits:
 Variated planks, stone, terracotta and unpolished stones are from Vanilla Tweaks.
 Vanilla Tweaks by Xisumavoid: https://www.xisumavoid.com/vanillatweaks
 
-Thanks to Fjorde for helping me with bricks, nether gold ore, and mossy stone bricks textures.
+Credit to Fjorde for helping me with bricks, nether gold ore, and mossy stone bricks textures.
+
+Crimson and warped roots' textures credit to Daggsy.
+
+Programmer art version is by iloveflareon, who also helped point out some bugs with the pack.
+
+Thanks to everyone to helped put this pack together, whether that be letting me use their textures, giving me general support, or pointing out bugs.
