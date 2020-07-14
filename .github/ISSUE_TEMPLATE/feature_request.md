@@ -7,5 +7,5 @@ assignees: Beatso1
 
 ---
 
-**Describe your idea.**
+### Description of idea
 Would you like me to variate something? Improve upon an existing feature? If you have found a bug, submit a bug report instead.
