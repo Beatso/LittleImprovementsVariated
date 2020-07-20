@@ -7,7 +7,7 @@ assignees: Beatso1
 
 ---
 
-### Describe the bug
+### Description of bug
 A clear and concise description of what the bug is. Is a certain block not rendering? Is something not variated that should be? If helpful, include a clear and concise description of what you expected to happen.
 
 ### Screenshots
