@@ -6,15 +6,21 @@
       },
       {
         "model": "minecraft:block/smooth_sandstone",
-        "y": 90
+		"x": 90,
+        "y": 90,
+		"z": 90
       },
       {
         "model": "minecraft:block/smooth_sandstone",
-        "y": 180
+        "x": 180,
+		"y": 180,
+		"z": 180
       },
       {
         "model": "minecraft:block/smooth_sandstone",
-        "y": 270
+        "x": 270,
+		"y": 270,
+		"z": 270
       }
     ]
   }
