@@ -1,0 +1,55 @@
+ {
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "minecraft:block/red_sandstone_slab"
+      },
+      {
+        "model": "minecraft:block/red_sandstone_slab",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/red_sandstone_slab",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/red_sandstone_slab",
+        "y": 270
+      }
+    ],
+	"type=double": [
+	  {
+        "model": "minecraft:block/red_sandstone"
+      },
+      {
+        "model": "minecraft:block/red_sandstone",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/red_sandstone",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/red_sandstone",
+        "y": 270
+      }
+	],
+    "type=top": [
+      {
+        "model": "minecraft:block/red_sandstone_slab_top"
+      },
+      {
+        "model": "minecraft:block/red_sandstone_slab_top",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/red_sandstone_slab_top",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/red_sandstone_slab_top",
+        "y": 270
+      }
+    ]
+  }
+}
