@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/oak_leaves"
+      },
+      {
+        "model": "minecraft:block/oak_leaves",
+        "x": 90,
+		"y": 90,
+		"z": 90
+      },
+      {
+        "model": "minecraft:block/oak_leaves",
+        "x": 180,
+		"y": 180,
+		"z": 180
+      },
+      {
+        "model": "minecraft:block/oak_leaves",
+        "x": 270,
+		"y": 270,
+		"z": 270
+      }
+    ]
+  }
+}
