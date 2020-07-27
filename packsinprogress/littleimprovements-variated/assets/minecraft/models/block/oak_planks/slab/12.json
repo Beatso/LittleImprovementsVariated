@@ -1,1 +1,1 @@
-{"parent":"block/slab","textures":{"top":"variated/oak_planks/12","side":"variated/oak_planks/12","bottom":"variated/oak_planks/12"}}
+{"parent":"block/slab","textures":{"top":"block/oak_planks/12","side":"block/oak_planks/12","bottom":"block/oak_planks/12"}}

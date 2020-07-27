@@ -1,1 +1,1 @@
-{"parent":"block/inner_stairs","textures":{"top":"variated/oak_planks/6","side":"variated/oak_planks/6","bottom":"variated/oak_planks/6"}}
+{"parent":"block/inner_stairs","textures":{"top":"block/oak_planks/6","side":"block/oak_planks/6","bottom":"block/oak_planks/6"}}

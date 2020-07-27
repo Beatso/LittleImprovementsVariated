@@ -1,1 +1,1 @@
-{"parent":"block/stairs","textures":{"top":"variated/stone/7","side":"variated/stone/7","bottom":"variated/stone/7"}}
+{"parent":"block/stairs","textures":{"top":"block/stone/7","side":"block/stone/7","bottom":"block/stone/7"}}

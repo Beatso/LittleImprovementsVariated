@@ -1,1 +1,1 @@
-{"parent":"block/outer_stairs","textures":{"top":"variated/warped_planks/14","side":"variated/warped_planks/14","bottom":"variated/warped_planks/14"}}
+{"parent":"block/outer_stairs","textures":{"top":"block/warped_planks/14","side":"block/warped_planks/14","bottom":"block/warped_planks/14"}}

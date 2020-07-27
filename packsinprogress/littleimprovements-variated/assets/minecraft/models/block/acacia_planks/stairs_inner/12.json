@@ -1,1 +1,1 @@
-{"parent":"block/inner_stairs","textures":{"top":"variated/acacia_planks/12","side":"variated/acacia_planks/12","bottom":"variated/acacia_planks/12"}}
+{"parent":"block/inner_stairs","textures":{"top":"block/acacia_planks/12","side":"block/acacia_planks/12","bottom":"block/acacia_planks/12"}}

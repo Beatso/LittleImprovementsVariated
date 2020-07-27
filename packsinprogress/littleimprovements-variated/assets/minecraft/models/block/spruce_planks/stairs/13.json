@@ -1,1 +1,1 @@
-{"parent":"block/stairs","textures":{"top":"variated/spruce_planks/13","side":"variated/spruce_planks/13","bottom":"variated/spruce_planks/13"}}
+{"parent":"block/stairs","textures":{"top":"block/spruce_planks/13","side":"block/spruce_planks/13","bottom":"block/spruce_planks/13"}}

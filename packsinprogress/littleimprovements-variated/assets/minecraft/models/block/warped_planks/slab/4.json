@@ -1,1 +1,1 @@
-{"parent":"block/slab","textures":{"top":"variated/warped_planks/4","side":"variated/warped_planks/4","bottom":"variated/warped_planks/4"}}
+{"parent":"block/slab","textures":{"top":"block/warped_planks/4","side":"block/warped_planks/4","bottom":"block/warped_planks/4"}}

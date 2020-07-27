@@ -1,1 +1,1 @@
-{"parent":"block/outer_stairs","textures":{"top":"variated/birch_planks/12","side":"variated/birch_planks/12","bottom":"variated/birch_planks/12"}}
+{"parent":"block/outer_stairs","textures":{"top":"block/birch_planks/12","side":"block/birch_planks/12","bottom":"block/birch_planks/12"}}

@@ -1,1 +1,1 @@
-{"parent":"block/slab","textures":{"top":"variated/jungle_planks/6","side":"variated/jungle_planks/6","bottom":"variated/jungle_planks/6"}}
+{"parent":"block/slab","textures":{"top":"block/jungle_planks/6","side":"block/jungle_planks/6","bottom":"block/jungle_planks/6"}}

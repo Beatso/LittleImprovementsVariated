@@ -1,1 +1,1 @@
-{"parent":"block/slab_top","textures":{"top":"variated/andesite/13","side":"variated/andesite/13","bottom":"variated/andesite/13"}}
+{"parent":"block/slab_top","textures":{"top":"block/andesite/13","side":"block/andesite/13","bottom":"block/andesite/13"}}

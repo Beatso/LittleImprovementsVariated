@@ -1,1 +1,1 @@
-{"parent":"block/slab_top","textures":{"top":"variated/birch_planks/8","side":"variated/birch_planks/8","bottom":"variated/birch_planks/8"}}
+{"parent":"block/slab_top","textures":{"top":"block/birch_planks/8","side":"block/birch_planks/8","bottom":"block/birch_planks/8"}}
