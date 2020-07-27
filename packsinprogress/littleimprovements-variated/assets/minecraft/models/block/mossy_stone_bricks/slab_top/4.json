@@ -1,1 +1,1 @@
-{"parent":"block/slab_top","textures":{"top":"block/mossy_stone_bricks4","side":"block/mossy_stone_bricks4","bottom":"block/mossy_stone_bricks4"}}
+{"parent":"block/slab_top","textures":{"top":"block/mossy_stone_bricks/4","side":"block/mossy_stone_bricks/4","bottom":"block/mossy_stone_bricks/4"}}
