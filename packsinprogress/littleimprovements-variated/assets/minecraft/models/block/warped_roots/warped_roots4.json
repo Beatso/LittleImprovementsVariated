@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "block/warped_roots_4"
+        "cross": "block/warped_roots/4"
     }
 }
