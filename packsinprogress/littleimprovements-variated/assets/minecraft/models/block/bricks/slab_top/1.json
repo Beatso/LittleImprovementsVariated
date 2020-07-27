@@ -1,1 +1,1 @@
-{"parent":"block/slab_top","textures":{"top":"block/bricks1","side":"block/bricks1","bottom":"block/bricks1"}}
+{"parent":"block/slab_top","textures":{"top":"block/bricks/1","side":"block/bricks/1","bottom":"block/bricks/1"}}
