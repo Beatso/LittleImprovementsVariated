@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "block/redstone_ore2"
+        "all": "block/redstone_ore/2"
     }
 }
