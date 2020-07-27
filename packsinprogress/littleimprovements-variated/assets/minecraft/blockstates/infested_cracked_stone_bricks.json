@@ -1,10 +1,10 @@
 {
     "variants": {
         "": [
-            { "model": "block/cracked_stone_bricks/cracked_stone_bricks1" },
-            { "model": "block/cracked_stone_bricks/cracked_stone_bricks2" },
-            { "model": "block/cracked_stone_bricks/cracked_stone_bricks3" },
-            { "model": "block/cracked_stone_bricks/cracked_stone_bricks4" }
+            { "model": "block/cracked_stone_bricks/1" },
+            { "model": "block/cracked_stone_bricks/2" },
+            { "model": "block/cracked_stone_bricks/3" },
+            { "model": "block/cracked_stone_bricks/4" }
         ]
     }
 }
