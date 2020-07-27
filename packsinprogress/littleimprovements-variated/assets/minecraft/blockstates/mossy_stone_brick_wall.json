@@ -195,11 +195,27 @@
 			"when": {
 				"west": "tall"
 			},
-			"apply": {
-				"model": "minecraft:block/mossy_stone_bricks/wall/side_tall/1",
-				"y": 270,
-				"uvlock": true
-			}
+			"apply": [{
+					"model": "minecraft:block/mossy_stone_bricks/wall/side_tall/1",
+					"y": 270,
+					"uvlock": true
+				},
+				{
+					"model": "minecraft:block/mossy_stone_bricks/wall/side_tall/2",
+					"y": 270,
+					"uvlock": true
+				},
+				{
+					"model": "minecraft:block/mossy_stone_bricks/wall/side_tall/3",
+					"y": 270,
+					"uvlock": true
+				},
+				{
+					"model": "minecraft:block/mossy_stone_bricks/wall/side_tall/4",
+					"y": 270,
+					"uvlock": true
+				}
+			]
 		}
 	]
 }
