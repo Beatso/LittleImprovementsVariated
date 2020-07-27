@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/template_single_face",
   "textures": {
-    "texture": "variated/brown_mushroom_block/3"
+    "texture": "block/brown_mushroom_block/3"
   }
 }
