@@ -2,52 +2,52 @@
   "variants": {
     "": [
       {
-        "model": "block/terracotta/block/0"
+        "model": "block/terracotta/terracotta/0"
       },
       {
-        "model": "block/terracotta/block/1"
+        "model": "block/terracotta/terracotta/1"
       },
       {
-        "model": "block/terracotta/block/2"
+        "model": "block/terracotta/terracotta/2"
       },
       {
-        "model": "block/terracotta/block/3"
+        "model": "block/terracotta/terracotta/3"
       },
       {
-        "model": "block/terracotta/block/4"
+        "model": "block/terracotta/terracotta/4"
       },
       {
-        "model": "block/terracotta/block/5"
+        "model": "block/terracotta/terracotta/5"
       },
       {
-        "model": "block/terracotta/block/6"
+        "model": "block/terracotta/terracotta/6"
       },
       {
-        "model": "block/terracotta/block/7"
+        "model": "block/terracotta/terracotta/7"
       },
       {
-        "model": "block/terracotta/block/8"
+        "model": "block/terracotta/terracotta/8"
       },
       {
-        "model": "block/terracotta/block/9"
+        "model": "block/terracotta/terracotta/9"
       },
       {
-        "model": "block/terracotta/block/10"
+        "model": "block/terracotta/terracotta/10"
       },
       {
-        "model": "block/terracotta/block/11"
+        "model": "block/terracotta/terracotta/11"
       },
       {
-        "model": "block/terracotta/block/12"
+        "model": "block/terracotta/terracotta/12"
       },
       {
-        "model": "block/terracotta/block/13"
+        "model": "block/terracotta/terracotta/13"
       },
       {
-        "model": "block/terracotta/block/14"
+        "model": "block/terracotta/terracotta/14"
       },
       {
-        "model": "block/terracotta/block/15"
+        "model": "block/terracotta/terracotta/15"
       }
     ]
   }

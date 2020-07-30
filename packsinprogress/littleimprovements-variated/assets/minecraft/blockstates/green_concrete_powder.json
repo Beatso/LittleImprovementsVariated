@@ -2,22 +2,22 @@
   "variants": {
     "": [
       {
-        "model": "minecraft:block/green_concrete_powder"
+        "model": "minecraft:block/terracotta/green_concrete_powder"
       },
       {
-        "model": "minecraft:block/green_concrete_powder",
+        "model": "minecraft:block/terracotta/green_concrete_powder",
         "x": 90,
 		"y": 90,
 		"z": 90
       },
       {
-        "model": "minecraft:block/green_concrete_powder",
+        "model": "minecraft:block/terracotta/green_concrete_powder",
         "x": 180,
 		"y": 180,
 		"z": 180
       },
       {
-        "model": "minecraft:block/green_concrete_powder",
+        "model": "minecraft:block/terracotta/green_concrete_powder",
         "x": 270,
 		"y": 270,
 		"z": 270
