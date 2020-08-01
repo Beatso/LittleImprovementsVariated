@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all_rotated/3",
+	"textures": {
+		"all": "block/pink_concrete_powder"
+	}
+}
