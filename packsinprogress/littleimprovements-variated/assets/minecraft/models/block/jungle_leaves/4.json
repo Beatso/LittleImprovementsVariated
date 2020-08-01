@@ -1,0 +1,6 @@
+{
+	"parent": "block/leaves_rotated/4",
+	"textures": {
+		"all": "block/jungle_leaves"
+	}
+}

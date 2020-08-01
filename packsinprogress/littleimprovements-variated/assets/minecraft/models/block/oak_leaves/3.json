@@ -1,0 +1,6 @@
+{
+	"parent": "block/leaves_rotated/3",
+	"textures": {
+		"all": "block/oak_leaves"
+	}
+}

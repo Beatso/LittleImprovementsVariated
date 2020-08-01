@@ -1,0 +1,6 @@
+{
+	"parent": "block/leaves_rotated/1",
+	"textures": {
+		"all": "block/spruce_leaves"
+	}
+}
