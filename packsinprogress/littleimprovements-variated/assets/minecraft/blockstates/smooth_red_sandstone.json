@@ -2,25 +2,16 @@
   "variants": {
     "": [
       {
-        "model": "minecraft:block/smooth_red_sandstone"
+        "model": "minecraft:block/smooth_red_sandstone/1"
       },
       {
-        "model": "minecraft:block/smooth_red_sandstone",
-		"x": 90,
-        "y": 90,
-		"z": 90
+        "model": "minecraft:block/smooth_red_sandstone/2"
       },
       {
-        "model": "minecraft:block/smooth_red_sandstone",
-        "x": 180,
-		"y": 180,
-		"z": 180
+        "model": "minecraft:block/smooth_red_sandstone/3"
       },
       {
-        "model": "minecraft:block/smooth_red_sandstone",
-        "x": 270,
-		"y": 270,
-		"z": 270
+        "model": "minecraft:block/smooth_red_sandstone/4"
       }
     ]
   }
