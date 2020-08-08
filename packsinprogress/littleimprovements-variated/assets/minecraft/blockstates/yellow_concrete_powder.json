@@ -2,16 +2,16 @@
   "variants": {
     "": [
       {
-        "model": "minecraft:block/yellow_concrete_powder/1"
+        "model": "minecraft:block/concrete_powder/yellow_concrete_powder/1"
       },
       {
-        "model": "minecraft:block/yellow_concrete_powder/2"
+        "model": "minecraft:block/concrete_powder/yellow_concrete_powder/2"
       },
       {
-        "model": "minecraft:block/yellow_concrete_powder/3"
+        "model": "minecraft:block/concrete_powder/yellow_concrete_powder/3"
       },
       {
-        "model": "minecraft:block/yellow_concrete_powder/4"
+        "model": "minecraft:block/concrete_powder/yellow_concrete_powder/4"
       }
     ]
   }
