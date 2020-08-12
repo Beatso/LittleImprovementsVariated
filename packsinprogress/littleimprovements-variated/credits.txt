@@ -6,9 +6,9 @@ Credits:
 
 Outlines on some ores, variated planks, stone, terracotta and unpolished stones are from Vanilla Tweaks by Xisumavoid: https://www.xisumavoid.com/vanillatweaks
 Fjorde, for helping me with nether gold ore, and mossy stone bricks textures.
-Daggsy for Crimson and warped roots textures.
+Daggsy for letting me adapt their crimson roots textures.
 iloveflareon for creating a programmer art version and pointing out bugs.
-LUBrickon for pointing out bug (#10).
+LUBrickon for pointing out a bug (#10).
 Marvolo_Riddle for suggesting some features, and testing the pack and reporting so many bugs.
 
 Thanks to everyone to helped put this pack together, whether that be letting me use their textures, giving me general support, or pointing out bugs.
