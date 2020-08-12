@@ -4,7 +4,7 @@ https://www.planetminecraft.com/texture-pack/little-improvements-variated/
 
 Credits:
 
-Outlines on some ores, variated planks, stone, terracotta and unpolished stones are from Vanilla Tweaks by Xisumavoid: https://www.xisumavoid.com/vanillatweaks
+Vanilla Tweaks by Xisumavoid, for outlines on some ores, variated planks, stone, terracotta and unpolished stones: https://www.xisumavoid.com/vanillatweaks
 Fjorde, for helping me with nether gold ore, and mossy stone bricks textures.
 Daggsy for letting me adapt their crimson roots textures.
 iloveflareon for creating a programmer art version and pointing out bugs.
