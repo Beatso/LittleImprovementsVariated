@@ -2,9 +2,6 @@
   "variants": {
     "": [
       {
-        "model": "block/cobblestone/0"
-      },
-      {
         "model": "block/cobblestone/1"
       },
       {
@@ -24,6 +21,9 @@
       },
       {
         "model": "block/cobblestone/7"
+      },
+      {
+        "model": "block/cobblestone/8"
       }
     ]
   }
