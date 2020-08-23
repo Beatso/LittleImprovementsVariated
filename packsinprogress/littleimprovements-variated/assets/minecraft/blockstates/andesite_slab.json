@@ -2,10 +2,10 @@
   "variants": {
     "type=bottom": [
       {
-        "model": "block/andesite/slab/0"
+        "model": "block/andesite/slab/1"
       },
       {
-        "model": "block/andesite/slab/1"
+        "model": "block/andesite/slab/16"
       },
       {
         "model": "block/andesite/slab/2"
@@ -52,10 +52,10 @@
     ],
     "type=top": [
       {
-        "model": "block/andesite/slab_top/0"
+        "model": "block/andesite/slab_top/1"
       },
       {
-        "model": "block/andesite/slab_top/1"
+        "model": "block/andesite/slab_top/16"
       },
       {
         "model": "block/andesite/slab_top/2"
@@ -102,10 +102,10 @@
     ],
     "type=double": [
       {
-        "model": "block/andesite/block/0"
+        "model": "block/andesite/block/1"
       },
       {
-        "model": "block/andesite/block/1"
+        "model": "block/andesite/block/16"
       },
       {
         "model": "block/andesite/block/2"

@@ -2,10 +2,10 @@
   "variants": {
     "": [
       {
-        "model": "block/andesite/block/0"
+        "model": "block/andesite/block/1"
       },
       {
-        "model": "block/andesite/block/1"
+        "model": "block/andesite/block/16"
       },
       {
         "model": "block/andesite/block/2"
