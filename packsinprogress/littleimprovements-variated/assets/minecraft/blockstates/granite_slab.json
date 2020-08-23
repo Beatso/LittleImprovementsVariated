@@ -2,10 +2,10 @@
   "variants": {
     "type=bottom": [
       {
-        "model": "block/granite/slab/0"
+        "model": "block/granite/slab/1"
       },
       {
-        "model": "block/granite/slab/1"
+        "model": "block/granite/slab/16"
       },
       {
         "model": "block/granite/slab/2"
@@ -52,10 +52,10 @@
     ],
     "type=top": [
       {
-        "model": "block/granite/slab_top/0"
+        "model": "block/granite/slab_top/1"
       },
       {
-        "model": "block/granite/slab_top/1"
+        "model": "block/granite/slab_top/16"
       },
       {
         "model": "block/granite/slab_top/2"
@@ -102,10 +102,10 @@
     ],
     "type=double": [
       {
-        "model": "block/granite/block/0"
+        "model": "block/granite/block/1"
       },
       {
-        "model": "block/granite/block/1"
+        "model": "block/granite/block/16"
       },
       {
         "model": "block/granite/block/2"
