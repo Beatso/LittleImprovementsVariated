@@ -1,24 +1,24 @@
 {
   "variants": {
 		"axis=x":	[
-					{ "model": "minecraft:block/birch_log/0",  "weight":100, "x": 90, "y": 90 },
-					{ "model": "minecraft:block/birch_log/1", "weight":10,  "x": 90, "y": 90 },
+					{ "model": "minecraft:block/birch_log/1",  "weight":100, "x": 90, "y": 90 },
+					{ "model": "minecraft:block/birch_log/6", "weight":10,  "x": 90, "y": 90 },
 					{ "model": "minecraft:block/birch_log/2", "weight":100, "x": 90, "y": 90 },
 					{ "model": "minecraft:block/birch_log/3", "weight":100, "x": 90, "y": 90 },
 					{ "model": "minecraft:block/birch_log/4", "weight":100, "x": 90, "y": 90 },
 					{ "model": "minecraft:block/birch_log/5", "weight":10,  "x": 90, "y": 90 }
 	],
 		"axis=y":	[
-					{ "model": "minecraft:block/birch_log/0",  "weight":100 },
-					{ "model": "minecraft:block/birch_log/1", "weight":10  },
+					{ "model": "minecraft:block/birch_log/1",  "weight":100 },
+					{ "model": "minecraft:block/birch_log/6", "weight":10  },
 					{ "model": "minecraft:block/birch_log/2", "weight":100 },
 					{ "model": "minecraft:block/birch_log/3", "weight":100 },
 					{ "model": "minecraft:block/birch_log/4", "weight":100 },
 					{ "model": "minecraft:block/birch_log/5", "weight":10  }
 	],
 		"axis=z": 	[
-					{ "model": "minecraft:block/birch_log/0",  "weight":100, "x": 90 },
-					{ "model": "minecraft:block/birch_log/1", "weight":10,  "x": 90 },
+					{ "model": "minecraft:block/birch_log/1",  "weight":100, "x": 90 },
+					{ "model": "minecraft:block/birch_log/6", "weight":10,  "x": 90 },
 					{ "model": "minecraft:block/birch_log/2", "weight":100, "x": 90 },
 					{ "model": "minecraft:block/birch_log/3", "weight":100, "x": 90 },
 					{ "model": "minecraft:block/birch_log/4", "weight":100, "x": 90 },
