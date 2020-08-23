@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "end_stone/0"
+      },
+      {
+        "model": "end_stone/1"
+      },
+      {
+        "model": "end_stone/2"
+      },
+      {
+        "model": "end_stone/3"
+      },
+      {
+        "model": "end_stone/4"
+      },
+      {
+        "model": "end_stone/5"
+      }
+    ]
+  }
+}
