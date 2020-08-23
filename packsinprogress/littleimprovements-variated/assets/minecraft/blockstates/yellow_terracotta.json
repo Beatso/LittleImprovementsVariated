@@ -2,10 +2,10 @@
   "variants": {
     "": [
       {
-        "model": "block/terracotta/yellow_terracotta/0"
+        "model": "block/terracotta/yellow_terracotta/1"
       },
       {
-        "model": "block/terracotta/yellow_terracotta/1"
+        "model": "block/terracotta/yellow_terracotta/16"
       },
       {
         "model": "block/terracotta/yellow_terracotta/2"
