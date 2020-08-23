@@ -2,7 +2,7 @@
   "variants": {
     "": [
       {
-        "model": "block/oak_planks/block/0"
+        "model": "block/oak_planks/block/16"
       },
       {
         "model": "block/oak_planks/block/1"
