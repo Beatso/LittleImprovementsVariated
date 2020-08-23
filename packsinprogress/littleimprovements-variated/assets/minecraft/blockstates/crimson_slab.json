@@ -2,7 +2,7 @@
   "variants": {
     "type=bottom": [
       {
-        "model": "block/crimson_planks/slab/0"
+        "model": "block/crimson_planks/slab/16"
       },
       {
         "model": "block/crimson_planks/slab/1"
@@ -52,7 +52,7 @@
     ],
     "type=top": [
       {
-        "model": "block/crimson_planks/slab_top/0"
+        "model": "block/crimson_planks/slab_top/16"
       },
       {
         "model": "block/crimson_planks/slab_top/1"
@@ -102,7 +102,7 @@
     ],
     "type=double": [
       {
-        "model": "block/crimson_planks/block/0"
+        "model": "block/crimson_planks/block/16"
       },
       {
         "model": "block/crimson_planks/block/1"
