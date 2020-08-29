@@ -2,7 +2,7 @@
   "variants": {
     "": [
       {
-        "model": "block/stone/0"
+        "model": "block/stone/16"
       },
       {
         "model": "block/stone/1"
