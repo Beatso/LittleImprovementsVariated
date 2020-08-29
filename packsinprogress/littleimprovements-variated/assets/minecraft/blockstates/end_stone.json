@@ -2,22 +2,22 @@
   "variants": {
     "": [
       {
-        "model": "end_stone/1"
+        "model": "block/end_stone/1"
       },
       {
-        "model": "end_stone/2"
+        "model": "block/end_stone/2"
       },
       {
-        "model": "end_stone/3"
+        "model": "block/end_stone/3"
       },
       {
-        "model": "end_stone/4"
+        "model": "block/end_stone/4"
       },
       {
-        "model": "end_stone/5"
+        "model": "block/end_stone/5"
       },
       {
-        "model": "end_stone/6"
+        "model": "block/end_stone/6"
       }
     ]
   }
