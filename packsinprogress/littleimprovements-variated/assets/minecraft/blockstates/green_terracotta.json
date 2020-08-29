@@ -2,52 +2,52 @@
   "variants": {
     "": [
       {
-        "model": "block/green_terracotta/block/1"
+        "model": "block/terracotta/green_terracotta/1"
       },
       {
-        "model": "block/green_terracotta/block/16"
+        "model": "block/terracotta/green_terracotta/16"
       },
       {
-        "model": "block/green_terracotta/block/2"
+        "model": "block/terracotta/green_terracotta/2"
       },
       {
-        "model": "block/green_terracotta/block/3"
+        "model": "block/terracotta/green_terracotta/3"
       },
       {
-        "model": "block/green_terracotta/block/4"
+        "model": "block/terracotta/green_terracotta/4"
       },
       {
-        "model": "block/green_terracotta/block/5"
+        "model": "block/terracotta/green_terracotta/5"
       },
       {
-        "model": "block/green_terracotta/block/6"
+        "model": "block/terracotta/green_terracotta/6"
       },
       {
-        "model": "block/green_terracotta/block/7"
+        "model": "block/terracotta/green_terracotta/7"
       },
       {
-        "model": "block/green_terracotta/block/8"
+        "model": "block/terracotta/green_terracotta/8"
       },
       {
-        "model": "block/green_terracotta/block/9"
+        "model": "block/terracotta/green_terracotta/9"
       },
       {
-        "model": "block/green_terracotta/block/10"
+        "model": "block/terracotta/green_terracotta/10"
       },
       {
-        "model": "block/green_terracotta/block/11"
+        "model": "block/terracotta/green_terracotta/11"
       },
       {
-        "model": "block/green_terracotta/block/12"
+        "model": "block/terracotta/green_terracotta/12"
       },
       {
-        "model": "block/green_terracotta/block/13"
+        "model": "block/terracotta/green_terracotta/13"
       },
       {
-        "model": "block/green_terracotta/block/14"
+        "model": "block/terracotta/green_terracotta/14"
       },
       {
-        "model": "block/green_terracotta/block/15"
+        "model": "block/terracotta/green_terracotta/15"
       }
     ]
   }
