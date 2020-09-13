@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for the pack
 title: ''
 labels: 'feature request'
-assignees: Beatso1
+assignees: 
 
 ---
 
