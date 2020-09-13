@@ -3,7 +3,7 @@ name: Bug report
 about: Tell me about something that's not working
 title: ''
 labels: bug
-assignees: Beatso1
+assignees: 
 
 ---
 
