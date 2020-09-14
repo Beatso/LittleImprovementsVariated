@@ -102,52 +102,52 @@
     ],
     "type=double": [
       {
-        "model": "block/diorite/block/1"
+        "model": "block/diorite/1"
       },
       {
-        "model": "block/diorite/block/16"
+        "model": "block/diorite/16"
       },
       {
-        "model": "block/diorite/block/2"
+        "model": "block/diorite/2"
       },
       {
-        "model": "block/diorite/block/3"
+        "model": "block/diorite/3"
       },
       {
-        "model": "block/diorite/block/4"
+        "model": "block/diorite/4"
       },
       {
-        "model": "block/diorite/block/5"
+        "model": "block/diorite/5"
       },
       {
-        "model": "block/diorite/block/6"
+        "model": "block/diorite/6"
       },
       {
-        "model": "block/diorite/block/7"
+        "model": "block/diorite/7"
       },
       {
-        "model": "block/diorite/block/8"
+        "model": "block/diorite/8"
       },
       {
-        "model": "block/diorite/block/9"
+        "model": "block/diorite/9"
       },
       {
-        "model": "block/diorite/block/10"
+        "model": "block/diorite/10"
       },
       {
-        "model": "block/diorite/block/11"
+        "model": "block/diorite/11"
       },
       {
-        "model": "block/diorite/block/12"
+        "model": "block/diorite/12"
       },
       {
-        "model": "block/diorite/block/13"
+        "model": "block/diorite/13"
       },
       {
-        "model": "block/diorite/block/14"
+        "model": "block/diorite/14"
       },
       {
-        "model": "block/diorite/block/15"
+        "model": "block/diorite/15"
       }
     ]
   }
