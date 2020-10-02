@@ -1,6 +1,6 @@
 {
 	"parent": "block/cube_all_rotated/4",
 	"textures": {
-		"all": "block/smooth_sandstone"
+		"all": "block/red_sandstone_top"
 	}
 }
