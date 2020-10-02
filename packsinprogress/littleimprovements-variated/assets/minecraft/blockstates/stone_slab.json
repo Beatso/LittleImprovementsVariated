@@ -2,7 +2,7 @@
   "variants": {
     "type=bottom": [
       {
-        "model": "block/stone/slab/0"
+        "model": "block/stone/slab/16"
       },
       {
         "model": "block/stone/slab/1"
@@ -52,7 +52,7 @@
     ],
     "type=top": [
       {
-        "model": "block/stone/slab_top/0"
+        "model": "block/stone/slab_top/16"
       },
       {
         "model": "block/stone/slab_top/1"
@@ -102,7 +102,7 @@
     ],
     "type=double": [
       {
-        "model": "block/stone/0"
+        "model": "block/stone/16"
       },
       {
         "model": "block/stone/1"
