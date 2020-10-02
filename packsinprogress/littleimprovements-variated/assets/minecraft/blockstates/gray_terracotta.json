@@ -2,7 +2,7 @@
   "variants": {
     "": [
       {
-        "model": "block/terracotta/gray_terracotta/0"
+        "model": "block/terracotta/gray_terracotta/16"
       },
       {
         "model": "block/terracotta/gray_terracotta/1"
